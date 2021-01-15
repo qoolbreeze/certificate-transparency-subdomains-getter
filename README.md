@@ -1,0 +1,1 @@
+# certificate-transparency-subdomains-getter
